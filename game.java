@@ -594,7 +594,7 @@ class ExamplesFlood {
 
     this.flwF = new FloodItWorld(3, 5, new Random(2));
 
-    this.flwFe = new FloodItWorld(5, 6);
+    this.flwFe = new FloodItWorld(15, 6);
 
   }
 
